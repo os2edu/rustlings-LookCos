@@ -35,6 +35,7 @@ mod my_module {
         let mut output: ??? = vec![];
         for (string, command) in input.iter() {
             // TODO: Complete the function body. You can do it!
+            
         }
         output
     }
